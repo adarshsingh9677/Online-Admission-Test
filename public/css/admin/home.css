@@ -1,0 +1,135 @@
+body{
+    background: #ccc;
+    font-size: 18px;
+    color: white;
+}
+.header{
+    background: #F490A9;
+    padding: 7px;
+    color: white;
+}
+.header a{
+    color: white;
+}
+.logo{
+    margin-right: 800px;
+    color: white;
+
+}
+.menu{
+    color: #98cbe8;
+}
+.menu:hover{
+    color: #2ab27b;
+}
+.profile{
+    background: #1c7430;
+    margin-top: 20px;
+    height: 400px;
+    text-align: center;
+    width: 600px;
+    border-radius: 20px;
+    margin-left: 20px;
+    color: #a6e1ec;
+    float: left;
+}
+.work_area{
+    background: #1c7430;
+    margin-top: 20px;
+    height: 400px;
+    text-align: center;
+    width: 600px;
+    border-radius: 20px;
+    margin-right: 20px;
+    color: #a6e1ec;
+    float: right;
+}
+
+.student{
+    color: white;
+    background: #20c997;
+    padding: 20px;
+    border-radius: 20px;
+}
+.teacher{
+    color: white;
+    background: #20c997;
+    padding: 20px;
+    border-radius: 20px;
+}
+.work_area_info{
+    margin-top: 60px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.student:hover{
+    color: white;
+    text-decoration: none;
+    background: #6EA3B8;
+}
+.teacher:hover{
+    color: white;
+    text-decoration: none;
+    background: #6EA3B8;
+}
+.s_student{
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.s_student label{
+    color: wheat;
+}
+.s_student_roll{
+    margin-left: 24px;
+    border-radius: 5px;
+    text-align: center;
+}
+.s_student_class{
+    margin-left: 14px;
+    border-radius: 5px;
+    text-align: center;
+}
+.s_student h3{
+    margin-top: 60px;
+    color: white;
+    margin-left: 50px;
+}
+.b_student{
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #3c763d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    float: bottom;
+}
+.body_part{
+    margin-top: 10px;
+}
+.body_part h3{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    color: white;
+    font-family: Calibri;
+    padding: 10px;
+    background: #006F67;
+
+}
+.s_student h4{
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 30px;
+    color: #CA9A23;
+}
+.profile h2{
+    margin-top: 10px;
+}

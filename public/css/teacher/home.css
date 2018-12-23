@@ -1,0 +1,17 @@
+img{
+    height: 250px;
+    width: 200px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.profile p{
+    text-align: center;
+}
+
+.profile{
+    height: 500px;
+}
+.work_area{
+    height: 500px;
+}

@@ -1,0 +1,50 @@
+body {
+    background: #ccc;
+    color: #fff;
+}
+
+.main {
+    width:  600px;
+    margin:  0 auto;
+    margin-top:  15%;
+    background: #324D5C;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.main h3.title {
+    text-align:  center;
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+
+.single_div {
+    width:  100%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.single_div label {
+    width: 20%;
+    float: left
+}
+
+.single_div input {
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.main p {
+    text-align: center;
+}
+
+.main p input {
+    background:  #ddd;
+    font-size: 16px;
+    text-transform:  uppercase;
+    font-weight:  bold;
+    padding: 10px 55px;
+    margin-left: 80px;
+}

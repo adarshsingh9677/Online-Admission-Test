@@ -1,0 +1,34 @@
+body form {
+    text-align:  center;
+}
+
+body {
+    background: #ccc;
+}
+
+body form label {
+	width: 8%;
+    text-align: left;
+}
+
+body form input {
+    width:  20%;
+    padding:  5px;
+    margin-bottom:  15px;
+}
+
+body form {
+    padding-top: 60px;
+}
+.form-area h3 {
+    margin-bottom: 25px;
+}
+input.btn-success {
+    border: none;
+    text-transform:  uppercase;
+    font-weight: 700;
+}
+
+.login_token{
+    margin-top: 50px;
+}

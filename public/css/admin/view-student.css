@@ -1,0 +1,58 @@
+
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: yellow;
+}
+img{
+    height: 250px;
+    width: 200px;
+    border-radius: 15px;
+    margin-left: 195px;
+    margin-bottom: 20px;
+}
+.personal_info{
+    margin-top: 10px;
+    float: left;
+    height: 500px;
+    width: 600px;
+    background: #1c7430;
+    margin-left: 60px;
+    border-radius: 15px;
+}
+.academic_info{
+    margin-top: 10px;
+    float: right;
+    height: 500px;
+    width: 600px;
+    background: #1c7430;
+    margin-right: 60px;
+    border-radius: 15px;
+}
+label{
+    margin-left: 100px;
+    color: #c1e2b3;
+}
+input{
+    float: right;
+    margin-right: 100px;
+    border-radius: 5px;
+    text-align: center;
+}
+.AI{
+    margin-bottom: 50px;
+}
+.academic_info a{
+    margin-top: 40px;
+}
+.function .btu{
+    float: right;
+    margin-top: 40px;
+    padding: 7px 17px;
+}
+.function .btd{
+    float: left;
+    margin-left: 303px;
+    padding: 7px 28px;
+}
